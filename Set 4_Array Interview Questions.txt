@@ -1,0 +1,9 @@
+Set 4 [ Array Interview Questions]
+1) Find the largest number in the Array
+2) Find the smallest number in the array
+3) Find the Second largest number in the array
+4) Sort Numeric Array In Ascending Order
+5) Sort Numeric Array In Decending Order
+6) Find the duplicate element in the array
+7) Find the unique element in the array
+
